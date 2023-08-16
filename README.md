@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @milan-milicevic, Software Engineer from Serbia. Tech lover.
 
 
-- 👀 I’m interested in tehc in general, but love anything that has software in it!
+- 👀 I’m interested in tech in general, but love anything that has software in it!
 
 
 - 🌱 I’m constantly learning about new technologies and concepts in computer science.
